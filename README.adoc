@@ -1,1 +1,2 @@
-image::https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master
+link:ex-image.adoc[https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master]
+
