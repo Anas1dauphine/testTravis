@@ -1,1 +1,1 @@
-:images-cdn: https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master)](https://travis-ci.com/Anas1dauphine/testTravis
+{<img src="https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master" alt="Build Status" />}[https://travis-ci.com/Anas1dauphine/testTravis]
