@@ -1,2 +1,3 @@
-link:ex-image.adoc[https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master]
-
+// tag::url[]
+image::https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master[Tux,250,350]
+// end::url[]
