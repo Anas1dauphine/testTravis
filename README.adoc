@@ -1,1 +1,1 @@
-image::https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master)](https://travis-ci.com/Anas1dauphine/testTravis
+:imagesdir:https://travis-ci.com/Anas1dauphine/testTravis.svg?branch=master)](https://travis-ci.com/Anas1dauphine/testTravis
